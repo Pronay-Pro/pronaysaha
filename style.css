@@ -1,0 +1,70 @@
+/* #nav{
+    position: sticky;
+} */
+#display{
+    background-color: #FCEAE8;
+    border-radius: 10px;
+    
+}
+#product{
+ border-radius: 15px;
+}
+#btn{
+    background-color: #FF428D;
+    border-radius: 8px;
+    color: aliceblue;
+}
+.catagories img{
+    height: 100px;
+}
+#shoes {
+    background-color: #FCEAE8;
+    border-radius: 20px;
+}
+#bag{
+    background-color:lightsteelblue;
+    border-radius: 20px;
+}
+#submit{
+    background-color: #FCEAE8;
+    height: 300px;
+    border-radius: 20px;
+}
+#footer{
+    height: 200px;
+    background-color:mistyrose;
+}
+#i-con{
+    padding: 20px;
+    text-align: center;
+}
+.youtube{
+    color: red;
+}
+.youtube:hover{
+    color: red;
+}
+.insta{
+    color: #fe4164;
+}
+.insta:hover{
+    color: #fe4164;
+}
+.twitter{
+    color: skyblue;
+}
+.twitter:hover{
+    color: skyblue;
+}
+.github{
+    color: black;
+}
+.github:hover{
+    color: black;
+}
+#shoes:hover{
+    box-shadow: 5px 1px 20px rgb(110, 108, 108);
+}
+#bag:hover{
+    box-shadow: 5px 1px 20px rgb(110, 108, 108);
+}
