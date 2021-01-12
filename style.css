@@ -30,6 +30,12 @@
     height: 300px;
     border-radius: 20px;
 }
+#sub{
+    background-color: #FF428D;
+    margin: 10px;
+    margin-left: 1rem;
+
+}
 #footer{
     height: 200px;
     background-color:mistyrose;
